@@ -1,0 +1,24 @@
+--extra-index-url https://www.paddlepaddle.org.cn/packages/stable/cpu/
+
+ipykernel
+jupyter
+pandas
+matplotlib
+transformers
+torch
+paddlepaddle==3.2.0
+paddleocr==3.3.3
+pytesseract==0.3.13
+pillow
+langchain-core >=0.3.29
+langchain
+langchain-classic
+langchain-community
+langchain-ollama
+langchain-openai
+langchain-text-splitters
+python-dotenv
+landingai-ade
+pymupdf
+pydantic_settings
+chromadb
